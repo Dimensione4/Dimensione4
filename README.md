@@ -18,6 +18,12 @@
 
 <br/>
 
+<div align="center">
+
+<img src="assets/logo-spin.svg" width="150" alt="Logo Dimensione 4 in rotazione"/>
+
+</div>
+
 ## Ciao, sono Dario 👋
 
 Partner tecnologico per PMI e startup, founder di **[Dimensione 4](https://www.dimensione4.it)**, in provincia di Bergamo.
@@ -98,7 +104,7 @@ Il grosso del mio lavoro vive in repository private. Qualche esempio di cosa c'�
 - **CRM aziendale con automazioni** · pipeline di vendita automatizzata con n8n e notifiche Telegram
 - **Piattaforma fiscale** · gestione dell'attività, self-hosted
 - **Piattaforma di ticketing** · gestione richieste e assistenza, in ottimizzazione continua
-- **WhatsApp Lead Agent** · agente AI che qualifica i lead 24/7 dalle campagne ads
+- **WhatsApp Lead Agent** · agente AI che qualificherà i lead 24/7 dalle campagne ads · *in progettazione*
 
 > Case study e dettagli su [dimensione4.it](https://www.dimensione4.it), o [parliamone in call](https://tidycal.com/dimensione-4-di-dariomarcobellini/meeting-conoscitivo-30min).
 
