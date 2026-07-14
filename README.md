@@ -76,8 +76,8 @@ Partner tecnologico per PMI e startup, founder di **[Dimensione 4](https://www.d
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dimensione4&show_icons=true&bg_color=0A0E12&title_color=00D4D4&icon_color=00D4D4&text_color=F4F1EA&border_color=0E7C7B&rank_icon=github&locale=it" alt="Statistiche GitHub"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimensione4&layout=compact&bg_color=0A0E12&title_color=00D4D4&text_color=F4F1EA&border_color=0E7C7B&langs_count=8&locale=it" alt="Linguaggi principali"/>
+<img height="175" src="https://raw.githubusercontent.com/Dimensione4/Dimensione4/output/stats-card.svg" alt="Statistiche GitHub"/>
+<img height="175" src="https://raw.githubusercontent.com/Dimensione4/Dimensione4/output/langs-card.svg" alt="Linguaggi principali"/>
 
 <br/><br/>
 
