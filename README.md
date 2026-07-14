@@ -28,7 +28,7 @@ Partner tecnologico per PMI e startup, founder di **[Dimensione 4](https://www.d
 - 🎯 **Cosa costruisco:** software su misura · automazioni AI · piattaforme digitali · MVP SaaS (4-12 settimane) · siti orientati alla conversione
 - 🔁 **Come lavoro:** metodo MCE (Mappa, Costruisci, Evolvi) · un unico responsabile · il codice resta al cliente
 - 🧭 **Background:** ex Accenture, ~5 anni enterprise · recensioni 5.0 verificabili
-- 📅 **Parliamone:** [prenota una call conoscitiva di 30 minuti](https://tidycal.com/dimensione-4-di-dariomarcobellini/meeting-conoscitivo-30min) · preventivo in 48h
+- 📅 **Parliamone:** [prenota una call conoscitiva di 30 minuti](https://tidycal.com/dimensione-4-di-dariomarcobellini/meeting-conoscitivo-30min) · preventivo in 24h
 
 <br/>
 
