@@ -1,0 +1,19 @@
+<svg width="430" height="175" viewBox="0 0 430 175" xmlns="http://www.w3.org/2000/svg">
+<defs><radialGradient id="bg" cx="80%" cy="20%" r="90%"><stop offset="0%" stop-color="#0E2226"/><stop offset="100%" stop-color="#0A0E12"/></radialGradient></defs>
+<rect x="0.5" y="0.5" width="429" height="174" rx="14" fill="url(#bg)" stroke="#134C4C"/>
+<circle cx="26" cy="27" r="3.5" fill="#00D4D4"><animate attributeName="opacity" values="1;0.25;1" dur="2.2s" repeatCount="indefinite"/></circle>
+<text x="40" y="32" font-family="Consolas, 'Courier New', monospace" font-size="12" letter-spacing="3" fill="#00D4D4">TELEMETRIA GITHUB</text>
+<line x1="20" y1="46" x2="410" y2="46" stroke="#0E7C7B" stroke-opacity="0.35"/>
+<text x="69" y="108" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#00D4D4">17</text>
+<text x="69" y="132" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="9" letter-spacing="2" fill="#93A6A6">REPOSITORY</text>
+<line x1="118" y1="72" x2="118" y2="130" stroke="#0E7C7B" stroke-opacity="0.3"/>
+<text x="166" y="108" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#00D4D4">0</text>
+<text x="166" y="132" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="9" letter-spacing="2" fill="#93A6A6">STELLE</text>
+<line x1="215" y1="72" x2="215" y2="130" stroke="#0E7C7B" stroke-opacity="0.3"/>
+<text x="264" y="108" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#00D4D4">1</text>
+<text x="264" y="132" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="9" letter-spacing="2" fill="#93A6A6">FOLLOWER</text>
+<line x1="312" y1="72" x2="312" y2="130" stroke="#0E7C7B" stroke-opacity="0.3"/>
+<text x="361" y="108" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#00D4D4">3+</text>
+<text x="361" y="132" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="9" letter-spacing="2" fill="#93A6A6">ANNI ATTIVO</text>
+<text x="20" y="158" font-family="Consolas, 'Courier New', monospace" font-size="9" letter-spacing="1" fill="#0E7C7B">github.com/Dimensione4 · aggiornata ogni notte</text>
+</svg>
